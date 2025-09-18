@@ -1,0 +1,5 @@
+{
+  "name": "PayTracker Web",
+  "description": "A privacy-first, offline-capable application for freelancers to manage employers, track work, and monitor payments. All data is stored locally on your device.",
+  "requestFramePermissions": []
+}
